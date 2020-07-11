@@ -1,2 +1,3 @@
 # Scott Divelbiss
-Test 123
+Hi, I'm Scott, a frontend software engineer at Gracenote
+
