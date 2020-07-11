@@ -1,3 +1,15 @@
 # Scott Divelbiss
 Hi, I'm Scott, a frontend software engineer at Gracenote
 
+## Tools I Use
+* [React](https://reactjs.org/) - A JavaScript library for building user interfaces
+* [Redux](https://redux.js.org/) - A Predictable State Container for JS Apps
+* [GIT](https://git-scm.com/) - Distributed version control system
+* [Webpack](https://webpack.js.org/) - Code bundler
+* [Storybook](https://storybook.js.org/) - Storybook is an open source tool for developing UI components in isolation for React
+* [Jest](https://jestjs.io/) - JavaScript Testing Framework
+* [deno](https://deno.land/) - A secure runtime for JavaScript and TypeScript.
+* [Node](https://nodejs.org/en/) - Node.js® is a JavaScript runtime
+* [SCSS](https://sass-lang.com/) - CSS with superpowers
+* [styled-components](https://styled-components.com/) - CSS in JS
+
