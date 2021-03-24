@@ -1,8 +1,9 @@
 # Scott Divelbiss
-Hi, I'm Scott, a frontend software engineer at Gracenote
+Hi, I'm Scott, a frontend software engineer at [i2x](https://www.i2x.ai/)
 
 ## Experience
- - 06/2019 - Present: Software Engineer II - Front End [Gracenote](https://www.gracenote.com/)
+ - 12/2020 - Present: Frontend Engineer [i2x](https://www.i2x.ai/)
+ - 06/2019 - 11/2020: Software Engineer II - Front End [Gracenote](https://www.gracenote.com/)
  - 09/2018 - 06/2019: Software Engineer - Front End [Gracenote](https://www.gracenote.com/)
  - 06/2017 - 09/2018: UI Developer [Vlocity](https://vlocity.com/)
  - 06/2016 - 09/2016: Analyst [Credo Ventures](https://www.credoventures.com/)
@@ -13,6 +14,7 @@ Hi, I'm Scott, a frontend software engineer at Gracenote
 ## Tools I Use
 * [React](https://reactjs.org/) - A JavaScript library for building user interfaces
 * [Redux](https://redux.js.org/) - A Predictable State Container for JS Apps
+* [React-Query](https://react-query.tanstack.com/) - Performant and powerful data synchronization for React
 * [GIT](https://git-scm.com/) - Distributed version control system
 * [Webpack](https://webpack.js.org/) - Code bundler
 * [Storybook](https://storybook.js.org/) - Storybook is an open source tool for developing UI components in isolation for React
