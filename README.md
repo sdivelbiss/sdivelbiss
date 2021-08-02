@@ -2,7 +2,7 @@
 Hi, I'm Scott, a frontend software engineer at [i2x](https://www.i2x.ai/)
 
 ## Experience
- - 12/2020 - Present: Frontend Engineer [i2x](https://www.i2x.ai/)
+ - 12/2020 - Present: Frontend Software Engineer [i2x](https://www.i2x.ai/)
  - 06/2019 - 11/2020: Software Engineer II - Front End [Gracenote](https://www.gracenote.com/)
  - 09/2018 - 06/2019: Software Engineer - Front End [Gracenote](https://www.gracenote.com/)
  - 06/2017 - 09/2018: UI Developer [Vlocity](https://vlocity.com/)
