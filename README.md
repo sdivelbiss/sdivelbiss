@@ -1,8 +1,9 @@
 # Scott Divelbiss
-Hi, I'm Scott, a frontend software engineer at [i2x](https://www.i2x.ai/)
+Hi, I'm Scott, a frontend software engineer at [Remote](https://remote.com)
 
 ## Experience
- - 12/2020 - Present: Frontend Software Engineer [i2x](https://www.i2x.ai/)
+ - 12/2021 - 02/2025: Engineering Team Lead (Frontend) [Remote](https://remote.com)
+ - 12/2020 - 11/2021: Frontend Software Engineer [i2x](https://www.i2x.ai/)
  - 06/2019 - 11/2020: Software Engineer II - Front End [Gracenote](https://www.gracenote.com/)
  - 09/2018 - 06/2019: Software Engineer - Front End [Gracenote](https://www.gracenote.com/)
  - 06/2017 - 09/2018: UI Developer [Vlocity](https://vlocity.com/)
