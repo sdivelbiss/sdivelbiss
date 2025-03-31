@@ -1,5 +1,5 @@
 # Scott Divelbiss
-Hi, I'm Scott, a frontend software engineer at [Remote](https://remote.com)
+Hi, I'm Scott, a senior frontend software engineer 
 
 ## Experience
  - 12/2021 - 02/2025: Engineering Team Lead (Frontend) [Remote](https://remote.com)
@@ -7,10 +7,9 @@ Hi, I'm Scott, a frontend software engineer at [Remote](https://remote.com)
  - 06/2019 - 11/2020: Software Engineer II - Front End [Gracenote](https://www.gracenote.com/)
  - 09/2018 - 06/2019: Software Engineer - Front End [Gracenote](https://www.gracenote.com/)
  - 06/2017 - 09/2018: UI Developer [Vlocity](https://vlocity.com/)
- - 06/2016 - 09/2016: Analyst [Credo Ventures](https://www.credoventures.com/)
  
  ## Volunteer
- - 03/2019 - Present [Code Nation](https://codenation.org/)
+ - 03/2019 - 2020 [Code Nation](https://codenation.org/)
 
 ## Tools I Use
 * [React](https://reactjs.org/) - A JavaScript library for building user interfaces
