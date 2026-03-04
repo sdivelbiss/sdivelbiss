@@ -2,6 +2,7 @@
 Hi, I'm Scott, a senior frontend software engineer 
 
 ## Experience
+ - Current: Senior Frontend Engineer - [Seats.io](https://seats.io)
  - 12/2021 - 02/2025: Engineering Team Lead (Frontend) [Remote](https://remote.com)
  - 12/2020 - 11/2021: Frontend Software Engineer [i2x](https://www.i2x.ai/)
  - 06/2019 - 11/2020: Software Engineer II - Front End [Gracenote](https://www.gracenote.com/)
