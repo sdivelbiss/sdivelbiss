@@ -13,15 +13,17 @@ Hi, I'm Scott, a senior frontend software engineer
  - 03/2019 - 2020 [Code Nation](https://codenation.org/)
 
 ## Tools I Use
-* [React](https://reactjs.org/) - A JavaScript library for building user interfaces
-* [Redux](https://redux.js.org/) - A Predictable State Container for JS Apps
-* [React-Query](https://react-query.tanstack.com/) - Performant and powerful data synchronization for React
+* [React](https://react.dev/) - A JavaScript library for building user interfaces
+* [TypeScript](https://www.typescriptlang.org/) - Typed JavaScript at any scale
+* [TanStack Query](https://tanstack.com/query) - Performant and powerful data synchronization for React
+* [Zustand](https://zustand-demo.pmnd.rs/) - Lightweight state management for React
+* [Zod](https://zod.dev/) - TypeScript-first schema validation with static type inference
 * [GIT](https://git-scm.com/) - Distributed version control system
-* [Webpack](https://webpack.js.org/) - Code bundler
-* [Storybook](https://storybook.js.org/) - Storybook is an open source tool for developing UI components in isolation for React
-* [Jest](https://jestjs.io/) - JavaScript Testing Framework
-* [deno](https://deno.land/) - A secure runtime for JavaScript and TypeScript.
+* [Vite](https://vitejs.dev/) - Next generation frontend tooling
+* [Storybook](https://storybook.js.org/) - An open source tool for developing UI components in isolation
+* [Vitest](https://vitest.dev/) - Vite-native testing framework
+* [Playwright](https://playwright.dev/) - Reliable end-to-end testing for modern web apps
+* [Bun](https://bun.sh/) - All-in-one JavaScript runtime and toolkit
 * [Node](https://nodejs.org/en/) - Node.js® is a JavaScript runtime
-* [SCSS](https://sass-lang.com/) - CSS with superpowers
-* [styled-components](https://styled-components.com/) - CSS in JS
+* [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework
 
